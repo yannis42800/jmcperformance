@@ -1,0 +1,107 @@
+body {
+    font-family: 'Lato', sans-serif
+}
+
+h1 {
+    margin-bottom: 40px
+}
+
+
+
+/*contact*/
+
+label {
+    color: #333
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    width: 80%;
+    margin-left: 3px
+}
+
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px
+}
+
+.card {
+    margin-left: 10px;
+    margin-right: 10px
+}
+
+* {
+    padding: 0;
+    margin: 0
+}
+
+.content-center {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+
+
+/*footer*/
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
+
+.divider2{
+	margin-top: 5%;
+	border-top: 2px solid rgba(189, 196, 203, 0.589);
+
+}
+
+.cardfooter {
+	width: 100%;
+    padding: 2% 7%;
+    color: #646771;
+    background-color: #121615;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0
+}
+
+ul>li {
+    padding: 4px
+}
+
+ul>li:hover {
+    color: #d9524a;
+    cursor: pointer
+}
+
+hr {
+    border-width: 3px
+}
+
+.social>i {
+    padding: 1%;
+    font-size: 15px
+}
+
+.social>i:hover {
+    color: #d9524a;
+    cursor: pointer
+}
+
+.policy>div {
+    padding: 4px
+}
+
+.heading {
+    font-family: 'Titillium Web', sans-serif;
+    color: rgb(116, 114, 114)
+}
+
+.divider {
+    border-top: 2px solid rgba(172, 175, 179, 0.295);
+}
+
+
